@@ -1,0 +1,7 @@
+# PREVIA (wls-studio.github.io/nilson-site) - nao indexar.
+# Ao publicar no dominio final (nsengenharia.com.br), trocar por:
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://www.nsengenharia.com.br/sitemap.xml
+User-agent: *
+Disallow: /
